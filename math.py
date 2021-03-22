@@ -17,4 +17,3 @@ def divide(x,y):
 # Function to square a number
 def square(x):
     pass
-
