@@ -12,7 +12,7 @@ def multiply(x,y):
 
 # Function to devide a number by another number
 def divide(x,y):
-    pass
+    return x/y
 
 # Function to square a number
 def square(x):
