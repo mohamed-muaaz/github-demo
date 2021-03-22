@@ -4,7 +4,10 @@ def add(x,y):
 
 # Function to substract a number from a number
 def subtract(x,y):
-    return x-y
+    if y>x:
+	return "Second number should be smaller than first number"
+    else:
+	return x-y
 
 # Function to multiply two numbers
 def multiply(x,y):
